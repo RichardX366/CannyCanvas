@@ -1,0 +1,19 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  margin: 0;
+  display: flex;
+}
+
+#d {
+  display: grid;
+  background-color: black;
+  width: 50%;
+}
+
+#d div {
+  aspect-ratio: 1 / 1;
+}
